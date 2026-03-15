@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+
+# Ignore model artifacts
+models/
+
+# Ignore scalers
+scalers/
+
+# Ignore feature engineering outputs
+features/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
