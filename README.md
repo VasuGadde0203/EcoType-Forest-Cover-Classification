@@ -243,12 +243,6 @@ The app dynamically loads **feature names and model artifacts** to ensure predic
 
 ---
 
-# 📷 Example Application Interface
-
-Users can enter feature values and click **Predict** to see the predicted forest cover type.
-
----
-
 # 📌 Future Improvements
 
 Possible improvements for this project:
@@ -275,5 +269,3 @@ This project is for **educational and learning purposes**.
 Data Analyst | Python Developer | Machine Learning Enthusiast
 
 ---
-
-# ⭐ If you found this project useful, consider giving it a star!
